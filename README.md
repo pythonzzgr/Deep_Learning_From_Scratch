@@ -1,1 +1,2 @@
-# DEEPLEARNING_FROM_SCRATCH
+## 밑바닥부터 시작하는 딥러닝 1
+#### 2023. 3. 20 ~ 
